@@ -50,7 +50,7 @@ To replicate these experiments, one may request access to the electronic version
 
 ## Included Authors
 
-Detailed references given in full in the thesis.
+Detailed references given in the thesis. 
 
 |	Authors 		| 	Texts 	 | 
 |------------|-------------| 
@@ -281,6 +281,7 @@ Detailed references given in full in the thesis.
 |━━| *Gesta Sugerii (De admin.)* |
 |━━| *Vita Ludouici grossi* |
 | Texts related to Saint-Denis | *Cartulaire blanc* | 
+|━━| D Kar 286 |
 | Theoderic of Echternach <br> *Theodericus Epternacensis* | *Chronicon Epternacense* |
 |━━| *Libellus de libertate Epternacensi propugnata* |
 | Walter of Châtillon (c. 1135–c. 1179) <br> *Gualterus de Castellione* | *Alexandreis* |
