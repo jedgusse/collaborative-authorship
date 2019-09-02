@@ -67,9 +67,9 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Historia quae inscribitur Dei gesta per Francos* |
 |—| *In Zachariam* |
 |—| *Quo ordine sermo fieri debeat* |
-| Hildebert of Lavardin (c. 1055–1133) <br> Hildebertus Lavardinensis | *Epistolae de Paschali papa* |
+| Hildebert of Lavardin (c. 1055–1133) <br> *Hildebertus Lavardinensis* | *Epistolae de Paschali papa* |
 |—| *Vita Mariae Aegyptiacae* |
-| Honorius of Regensburg (c. 1080–c. 1154) <br> Honorius Augustodunensis | *De apostatis* |
+| Honorius of Regensburg (c. 1080–c. 1154) <br> *Honorius Augustodunensis* | *De apostatis* |
 |—| *De offendiculo*|
 |—| *Elucidarium*|
 |—| *Expositio in Cantica canticorum*|
@@ -79,7 +79,7 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Imago mundi (cum continuationibus VII) (Excerpta) Speculum ecclesiae*|
 |—| *Summa gloria* |
 |—| *Summa totius* |
-| Hugh of Saint-Victor (c. 1096–1141) <br> Hugo de Sancto Victore | *De Sacramentis Christianae fidei* |
+| Hugh of Saint-Victor (c. 1096–1141) <br> *Hugo de Sancto Victore* | *De Sacramentis Christianae fidei* |
 |—| *De septem donis spiritus sancti* |
 |—| *De substantia dilectionis* |
 |—| *De tribus rerum subsistentiis* |
@@ -88,6 +88,23 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Dialogus de creatione mundi* |
 |—| *In hierarchicam coelestem* |
 |—| *Sententiae de divinitate* |
+| Ivo of Chartres (1040–1115) <br> *Ivo Carnotensis* | *Decretum* |
+|—| *Epistolae ad litem investiturarum spectantes* |
+|—| *Panormia* |
+| John of Salisbury (c. 1125–1180) <br> *Ioannes Saresberiensis* | *Epistolae* |
+|—| *Metalogicon* |
+|—| *Polycraticus* |
+|—| *Vita Sancti Anselmi Cantuariensis* |
+| Peter Damian (c. 1007–c.1073) <br> *Petrus Damianus* | *De divina omnipotentia* |
+|—| *Liber Gomorrhianus* |
+|—| *Vita sancti Romualdi* |
+| Peter Lombard (c. 1096–1160) <br> *Petrus Lombardus* | *Collectanea in epistolas Pauli* |
+|—| *Commentaria in Psalmos* |
+|—| *Sententiae* |
+| Peter of Celle (c. 1115–1183) <br> *Petrus Cellensis* | *De conscientia* |
+|—| *Epistolae* |
+|—| *Liber de panibus* |
+|—| *Mystica et moralis expositio Mosaici tabernaculi Sermones* |
 
 # Code
 
