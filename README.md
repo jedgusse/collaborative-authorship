@@ -60,13 +60,13 @@ To replicate these experiments, one may request access to the electronic version
 | Gilbert of Poitiers (1075–1154), *Gislebertus Porretanus* | *Expositio in Boethii librum De bonorum hedbomade* |
 |—| *Liber de sex principiis* |
 | Guibert de Nogent (c. 1053–1125), *Guibertus de Novigento* | *Carmen Erumnarum et dolorum* |
-|-| *Contra iudaizantem et Iudaeos* |
-|-| *De bucella Iudae data* |
-|-| *De sanctis et eorum pigneribus* |
-|-| *De vita sua sive Monodiae* |
-|-| *Historia quae inscribitur Dei gesta per Francos* |
-|-| *In Zachariam* |
-|-| *Quo ordine sermo fieri debeat* |
+|—| *Contra iudaizantem et Iudaeos* |
+|—| *De bucella Iudae data* |
+|—| *De sanctis et eorum pigneribus* |
+|—| *De vita sua sive Monodiae* |
+|—| *Historia quae inscribitur Dei gesta per Francos* |
+|—| *In Zachariam* |
+|—| *Quo ordine sermo fieri debeat* |
 
 # Code
 
