@@ -35,7 +35,6 @@ To replicate these experiments, one may request access to the electronic version
 
 ## Included authors
 
-<sub><sup>
 |	Authors 		| 	Texts 	 | 
 |------------|-------------| 
 | Alan of Lille (c. 1128–c. 1203) <br> *Alanus de Insulis* | *Anticlaudianus* |
@@ -238,7 +237,6 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Expositio in Epistolam ad Romanos* |
 |—| *Orationes meditativae* |
 |—| *Speculum fidei* |
-</sup></sub>
 
 # Code
 
