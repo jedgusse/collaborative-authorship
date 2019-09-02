@@ -24,6 +24,10 @@ Aside from being able to rely on the texts that had previously been collected in
 ## *Patrologia Latina*
 
 For the remaining texts, I chiefly relied on the digitized version of the *Patrologia Latina* (*PL*), which has become electronically available since 1993, and has remained one of the most sizeable Latin corpora online (±113 million words).
+The *PL* is a corpus containing texts of Latin ecclesiastical writers in 221 volumes ranging a time span of ten centuries, from Late Antiquity to the High Middle Ages (Tertullian c. 200 to Pope Innocent III c. 1216). 
+The *PL* was first published in two series halfway the nineteenth century by the Parisian priest and theologian Jacques-Paul Migne (1800-1875), who mainly drew on seventeenth and eighteenth-century prints to compile the patristic heritage.
+Although Migne’s conservation of a great number of patristic texts which would otherwise have gone lost unmistakably stands as a major contribution to medieval studies, his critical attitudes have been deficient, which has from time to time caused concerns over the corpus’s overall reliability in matters of authenticity and ascription. 
+However, the *PL*’s accessibility and encyclopedic quality render it a useful tool for scholars, and some texts can be consulted there and only there.
 
 # Code
 
