@@ -30,8 +30,8 @@ In natural language processing (NLP), the task of aligning variant appearances o
 Examples are: 
 
 * \<j\>'s vs. \<i\>'s
-* \<ae\>'s vs. <e>'s, or <oe>'s vs. <e>'s
-* <v>'s vs. <u>'s
+* \<ae\>'s vs. \<e\>'s, or \<oe\>'s vs. \<e\>'s
+* \<v\>'s vs. \<u\>'s
 * lenition: *racio* vs. *ratio* or *multociens* vs. *multotiens*
 * strengthened aspiration or fortition, e.g. *michi* vs. *mihi* (other examples: *nichil* vs. *nihil*)
 * progressive or regressive assimilation / dissimilation: *exsistere* vs. *existere*, *obf-* vs. *off-* (e.g. *obfuscare*), *abji-* vs. *abi-* (e.g. *abjiciendus est*), *adm-* vs. *amm-* (e.g. *ammonitio*, *ammiratio*), etc.
