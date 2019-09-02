@@ -317,5 +317,5 @@ Furthermore, I want to thank the [Ghent University Special Research Fund (BOF)](
 
 * Kestemont, Mike, Sara Moens, and Jeroen Deploige. ‘Collaborative Authorship in the Twelfth Century: A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. *Digital Scholarship in the Humanities* 30, no. 2 (2013): 199–224.
 * De Gussem, Jeroen. 'Bernard of Clairvaux and Nicholas of Montiéramey: Tracing the Secretarial Trail with Computational Stylistics'. *Speculum* 92, no. S1 (2017): S190–S225.
-* De Gussem, Jeroen, and Dinah Wouters. ‘Language and Thought in Hildegard of Bingen's Visionary Trilogy: Close and Distant Readings of a Thinker's Development'. *Parergon*, 2019, 31–60.
 * Kestemont, Mike, and Jeroen De Gussem. 'Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning'. Edited by Marco Büchler and Laurence Mellerin. *Journal of Data Mining and Digital Humanities*, Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages, 2017, 1–17. [https://arxiv.org/abs/1603.01597](https://arxiv.org/abs/1603.01597).
+* De Gussem, Jeroen, and Dinah Wouters. ‘Language and Thought in Hildegard of Bingen's Visionary Trilogy: Close and Distant Readings of a Thinker's Development'. *Parergon*, 2019, 31–60.
