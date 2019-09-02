@@ -7,7 +7,7 @@ The rationale behind this repository is to allow for the replication of experime
 
 # Data
 
-Aside from a number of exceptions, the pool of texts subjected to quantitative analysis in the thesis roughly derive from two main databases. 
+The pool of texts subjected to quantitative analysis in the thesis roughly derive from two main databases. 
 
 ## Brepols Library of Latin Texts
 
@@ -35,25 +35,119 @@ To replicate these experiments, one may request access to the electronic version
 
 ## Included authors
 
-|	Author 		| 	Texts 	 | 
+<sub><sup>
+|	Authors 		| 	Texts 	 | 
 |------------|-------------| 
 | Alan of Lille (c. 1128–c. 1203) <br> *Alanus de Insulis* | *Anticlaudianus* |
-|—|*Contra haereticos* |
-|—|*De arte praedicatoria* |
-|—|*De planctu naturae* |
-|—|*Elucidatio in Cantica canticorum* |
-|—|*Sermones* |
-|—|*Summa "Quoniam homines"* |
+|—| *Contra haereticos* |
+|—| *De arte praedicatoria* |
+|—| *De planctu naturae* |
+|—| *Elucidatio in Cantica canticorum* |
+|—| *Sermones* |
+|—| *Summa "Quoniam homines"* |
 | Anselm of Canterbury (1033–1109) <br> *Anselmus Cantuariensis* | *Cur deus homo* |
-|—|*Monologion* |
-|—|*Proslogion* |
+|—| *Monologion* |
+|—| *Proslogion* |
 | Anselm of Laon († 1117) <br> *Anselmus Laudunensis* | *Enarrationes in Apocalypsin* |
-|—|*Enarrationes in Cantica canticorum* |
+|—| *Enarrationes in Cantica canticorum* |
+| Bernard of Clairvaux (1090–1153) <br> Bernardus Claraevallensis | *Apologia ad Guillelmum abbatem* |
+|—| *De consideratione libri v tractatus* |
+|—| *Ep. de moribus et officio espiscoporum (ep. 42)* |
+|—| *Epistula de baptismo* |
+|—| *Epistula de erroribus Petri Abaelardi* |
+|—| *Epistulae nuper repertae* |
+|—| *Epistulae* |
+|—| *Epitaphium de sancto Malachia* |
+|—| *Homiliae super 'Missus est'* |
+|—| *Hymnus de sancto Malachia* |
+|—| *Liber ad milites Templi De laude nouae militiae* |
+|—| *Liber de diligendo Deo* |
+|—| *Liber de gradibus humilitatis et superbiae* |
+|—| *Liber de gratia et de libero arbitrio* |
+|—| *Liber de praecepto et dispensatione* |
+|—| *Officium de sancto Uictore* |
+|—| *Parabolae editae in An.S.O.Cist. et in Cîteaux* |
+|—| *Parabolae* |
+|—| *Prologus in antiphonarium* |
+|—| *Sententiae* |
+|—| *Sermo ad abbates* |
+|—| *Sermo de altitudine et bassitudine cordis* |
+|—| *Sermo de conuersione ad clericos (textus breuis)* |
+|—| *Sermo de conuersione ad clericos (textus longior)* |
+|—| *Sermo de misericordiis* |
+|—| *Sermo de sancto Malachia* |
+|—| *Sermo de septem donis Spiritus Sancti* |
+|—| *Sermo de uoluntate diuina* |
+|—| *Sermo in aduentu Domini* |
+|—| *Sermo in cena Domini* |
+|—| *Sermo in conuersione sancti Pauli ('Conuersus est')* |
+|—| *Sermo in conuersione sancti Pauli ('Merito quidem')* |
+|—| *Sermo in dom. inf. octauam assumptionis b. Mariae* |
+|—| *Sermo in dominica quarta post pentecosten* |
+|—| *Sermo in epiphania Domini* |
+|—| *Sermo in f. ss. Stephani, Iohannis et Innocentium* |
+|—| *Sermo in feria iv hebdomadae sanctae* |
+|—| *Sermo in festo sancti Martini* |
+|—| *Sermo in natali sancti Benedicti* |
+|—| *Sermo in natali sancti Clementis* |
+|—| *Sermo in natiuitate beatae Mariae Uirginis* |
+|—| *Sermo in natiuitate sancti Iohannis Baptistae* |
+|—| *Sermo in obitu domini Humberti* |
+|—| *Sermo in octaua epiphaniae Domini* |
+|—| *Sermo in rogationibus* |
+|—| *Sermo in transitu sancti Malachiae* |
+|—| *Sermo in uigilia sancti Andreae* |
+|—| *Sermo in uigilia sanctorum Petri et Pauli* |
+|—| *Sermones de diuersis* |
+|—| *Sermones in adnuntiatione dominica* |
+|—| *Sermones in aduentu Domini* |
+|—| *Sermones in ascensione Domini* |
+|—| *Sermones in assumptione beatae Mariae Uirginis* |
+|—| *Sermones in circumcisione Domini* |
+|—| *Sermones in dedicatione ecclesiae* |
+|—| *Sermones in die paschae* |
+|—| *Sermones in die pentecostes* |
+|—| *Sermones in dominica i nouembris* |
+|—| *Sermones in dominica i post octauam epiphaniae* |
+|—| *Sermones in dominica sexta post pentecosten* |
+|—| *Sermones in epiphania Domini* |
+|—| *Sermones in festiuitate omnium sanctorum* |
+|—| *Sermones in festo sancti Michaelis* |
+|—| *Sermones in festo sanctorum apostolorum Petri et Pauli* |
+|—| *Sermones in labore messis* |
+|—| *Sermones in natali sancti Andreae* |
+|—| *Sermones in natali sancti Uictoris* |
+|—| *Sermones in natiuitate Domini* |
+|—| *Sermones in octaua paschae* |
+|—| *Sermones in purificatione beatae Mariae Uirginis* |
+|—| *Sermones in quadragesima* |
+|—| *Sermones in ramis palmarum* |
+|—| *Sermones in septuagesima* |
+|—| *Sermones in uigilia natiuitatis Domini* |
+|—| *Sermones super Cantica Canticorum* |
+|—| *Sermones super psalmum 'Qui habitat'* |
+|—| *Vita sancti Malachiae* |
 | Bruno of Cologne (1030–1101) <br> *Bruno Carthusianorum* | *Expositio in epistolas Pauli* |
-|—|*Expositio in Psalmos* |
+|—| *Expositio in Psalmos* |
+| Elisabeth of Schönau (1129–1164/5) <br> *Elisabeth Schoenaugiensis* | *Elisabethae de sacro exercitu virginum Coloniensium* |
+|—| *Epistolae* |
+|—| *Liber primus* | 
+|—| *Liber secundus* |
+|—| *Liber tertius* |
+|—| *Liber viarum dei* |
+|—| *Liber revelationum* |
+| Ekbert of Schönau († 1184) <br> *Ekbertus Schoenaugiensis* | *De obitu* |
+|—| *Epistolae Ekberti* |
+|—| *Laudationes* |
+|—| *Magnificat anima mea* |
+|—| *Missus est angelus* |
+|—| *Orationes* |
+|—| *Sermones XIII contra catharos* |
+|—| *Soliloquium seu meditationes* |
+|—| *Ymnus de S. Gregorio* |
 | Gerhoh of Reichersberg (1093–1169) <br> *Gerhohus Reicherspergensis* | *Commentarius aureus in Psalmos et cantica ferialia* |
-|—|*De aedificio dei* |
-|—|*Epistolae Gerhohi* |
+|—| *De aedificio dei* |
+|—| *Epistolae Gerhohi* |
 | Gilbert of Poitiers (1075–1154) <br> *Gislebertus Porretanus* | *Expositio in Boethii librum De bonorum hedbomade* |
 |—| *Liber de sex principiis* |
 | Guibert de Nogent (c. 1053–1125) <br> *Guibertus de Novigento* | *Carmen Erumnarum et dolorum* |
@@ -64,6 +158,7 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Historia quae inscribitur Dei gesta per Francos* |
 |—| *In Zachariam* |
 |—| *Quo ordine sermo fieri debeat* |
+| Heloise of Argenteuil <br> *Heloisa Argentoliensis* | *Epistolae ad Abaelardum (II, IV and VI)* |
 | Hildebert of Lavardin (c. 1055–1133) <br> *Hildebertus Lavardinensis* | *Epistolae de Paschali papa* |
 |—| *Vita Mariae Aegyptiacae* |
 | Honorius of Regensburg (c. 1080–c. 1154) <br> *Honorius Augustodunensis* | *De apostatis* |
@@ -143,6 +238,7 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Expositio in Epistolam ad Romanos* |
 |—| *Orationes meditativae* |
 |—| *Speculum fidei* |
+</sup></sub>
 
 # Code
 
