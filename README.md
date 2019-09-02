@@ -257,7 +257,7 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Passio Eliphii Tullensis* |
 |━━| *Sermo de Pantaleone* |
 |━━| *[?] Vita Heriberti Coloniensis* |
-| Suger of Saint-Denis (1080/1–1151) <br> *Sugerius Sancti Dionysii* | *De consecratione * |
+| Suger of Saint-Denis (1080/1–1151) <br> *Sugerius Sancti Dionysii* | *De consecratione* |
 |━━| *De rege Ludouico* |
 |━━| *Epistolae* |
 |━━| *Fragmentum uitae Ludouici Iunioris* |
