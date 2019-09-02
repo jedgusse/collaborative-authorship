@@ -42,6 +42,7 @@ To replicate these experiments, one may request access to the electronic version
 |------------|-------------| 
 | Alan of Lille (c. 1128–c. 1203) Alanus de Insulis | *test* |
 || *test* |
+| Alan of Lille (c. 1128–c. 1203) Alanus de Insulis | *test* |
 
 # Code
 
