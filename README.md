@@ -74,6 +74,20 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Elucidarium*|
 |—| *Expositio in Cantica canticorum*|
 |—| *Gemma animae*|
+|—| *Imago mundi*|
+|—| *Imago mundi: Continuatio Weingartensis*|
+|—| *Imago mundi (cum continuationibus VII) (Excerpta) Speculum ecclesiae*|
+|—| *Summa gloria* |
+|—| *Summa totius* |
+| Hugh of Saint-Victor (c. 1096–1141) <br> Hugo de Sancto Victore | *De Sacramentis Christianae fidei* |
+|—| *De septem donis spiritus sancti* |
+|—| *De substantia dilectionis* |
+|—| *De tribus rerum subsistentiis* |
+|—| *De vanitate rerum mundanarum* |
+|—| *De verbo dei* |
+|—| *Dialogus de creatione mundi* |
+|—| *In hierarchicam coelestem* |
+|—| *Sententiae de divinitate* |
 
 # Code
 
