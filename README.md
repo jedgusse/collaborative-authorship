@@ -41,33 +41,32 @@ To replicate these experiments, one may request access to the electronic version
 |	Author 		| 	Texts 	 | 
 |------------|-------------| 
 | Alan of Lille (c. 1128–c. 1203), *Alanus de Insulis* | *Anticlaudianus* |
-|—|*Contra haereticos*|
-|—|*De arte praedicatoria*|
-|—|*De planctu naturae*|
-|—|*Elucidatio in Cantica canticorum*|
-|—|*Sermones*|
-|—|*Summa "Quoniam homines"*|
-| Anselm of Canterbury (1033–1109), *Anselmus Cantuariensis* | *Cur deus homo*|
-|—|*Monologion*|
-|—|*Proslogion*|
-| Anselm of Laon († 1117), *Anselmus Laudunensis* | *Enarrationes in Apocalypsin*|
-|—|*Enarrationes in Cantica canticorum*|
+|—|*Contra haereticos* |
+|—|*De arte praedicatoria* |
+|—|*De planctu naturae* |
+|—|*Elucidatio in Cantica canticorum* |
+|—|*Sermones* |
+|—|*Summa "Quoniam homines"* |
+| Anselm of Canterbury (1033–1109), *Anselmus Cantuariensis* | *Cur deus homo* |
+|—|*Monologion* |
+|—|*Proslogion* |
+| Anselm of Laon († 1117), *Anselmus Laudunensis* | *Enarrationes in Apocalypsin* |
+|—|*Enarrationes in Cantica canticorum* |
 | Bruno of Cologne (1030–1101), *Bruno Carthusianorum* | *Expositio in epistolas Pauli* |
-|—|*Expositio in Psalmos*|
+|—|*Expositio in Psalmos* |
 | Gerhoh of Reichersberg (1093–1169), *Gerhohus Reicherspergensis* | *Commentarius aureus in Psalmos et cantica ferialia* |
-|—|*De aedificio dei*|
-|—|*Epistolae Gerhohi*|
+|—|*De aedificio dei* |
+|—|*Epistolae Gerhohi* |
 | Gilbert of Poitiers (1075–1154), *Gislebertus Porretanus* | *Expositio in Boethii librum De bonorum hedbomade* |
-|—| *Liber de sex principiis*|
+|—| *Liber de sex principiis* |
 | Guibert de Nogent (c. 1053–1125), *Guibertus de Novigento* | *Carmen Erumnarum et dolorum* |
-|-|* Contra iudaizantem et Iudaeos *|
-|-|* De bucella Iudae data *|
-|-|* De sanctis et eorum pigneribus *|
-|-|* De vita sua sive Monodiae *|
-|-|* Historia quae inscribitur Dei gesta per Francos*|
-|-|* In Zachariam *|
-|-|* Quo ordine sermo fieri debeat *|
-
+|-| *Contra iudaizantem et Iudaeos* |
+|-| *De bucella Iudae data* |
+|-| *De sanctis et eorum pigneribus* |
+|-| *De vita sua sive Monodiae* |
+|-| *Historia quae inscribitur Dei gesta per Francos* |
+|-| *In Zachariam* |
+|-| *Quo ordine sermo fieri debeat* |
 
 # Code
 
