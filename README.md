@@ -289,7 +289,7 @@ Detailed references given in the thesis.
 |━━| *Tractatus contra Iudaeos* |
 | William of Conches (c. 1090–1154) <br> *Guillelmus de Conchis* | *Dragmaticon Philosophiae* |
 |━━| *Glosae super Boetium* |
-| William of Saint-Denis <br> Guillelmus Sancti Dionysii | *Ad quosdam ex suis comonachis* |
+| William of Saint-Denis <br> *Guillelmus Sancti Dionysii* | *Ad quosdam ex suis comonachis* |
 |━━| *De morte Sugerii* |
 |━━| *Dyalogum apologiticum* |
 |━━| *Vita Sugerii* |
