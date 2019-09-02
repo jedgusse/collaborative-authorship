@@ -130,7 +130,7 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Tractatus contra Iudaeos* |
 | William of Conches (c. 1090–1154) <br> *Guillelmus de Conchis* | *Dragmaticon Philosophiae* |
 |—| *Glosae super Boetium* |
-| William of Saint-Thièrry (c. 1080–1148) <br> *Guilhelmus de Sancto Theodorico* | *Aenigma fidei* |
+| William of Saint-Thièrry (c. 1080–1148) <br> *Guillelmus de Sancto Theodorico* | *Aenigma fidei* |
 |—| *Brevis commentatio (in Cantici Canticorum priora dua capita)* |
 |—| *De contemplando Deo* |
 |—| *Epistola de erroribus Guillelmi de Conchis* |
