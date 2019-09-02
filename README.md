@@ -28,7 +28,7 @@ It stands beyond question that such differences constitute a poor ground upon wh
 In natural language processing (NLP), the task of aligning variant appearances of lexical items, such as the pairs *racio* and *ratio*, or *aliquandiu* and *aliquamdiu*, commonly falls under 'preprocessing,' which entails minor interventions in the text such as the deletion of irrelevant textual material and the normalization of divergent orthographical forms.
 
 The original texts found in the data folder in this repository have been slightly camouflaged so as to respect the copyright laws protecting the editions.
-Only function words ━━which are highly successful for distinguishing writing styles━━ were retained in their original position and form.
+Only function words —which are highly successful for distinguishing writing styles— were retained in their original position and form.
 All the remaining, content-loaded words, were substituted by 'dummy words', rendering the text illegible. 
 This means that some experiments in this thesis, those which relied on most-frequent content words in addition to function words, will not be replicable by relying solely on the text data as available on GitHub. 
 To replicate these experiments, one may request access to the electronic versions of the editions referred to by contacting [Brepols Library of Latin Texts](http://clt.brepolis.net/llta/).
