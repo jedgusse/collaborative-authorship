@@ -35,6 +35,8 @@ To replicate these experiments, one may request access to the electronic version
 
 ## Included Authors
 
+Detailed references given in full in the thesis.
+
 |	Authors 		| 	Texts 	 | 
 |------------|-------------| 
 | Alan of Lille (c. 1128–c. 1203) <br> *Alanus de Insulis* | *Anticlaudianus* |
