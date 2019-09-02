@@ -312,3 +312,10 @@ Detailed references given in full in the thesis.
 
 I would like to express my gratitude to my supervisors, prof. dr. Jeroen Deploige, prof. dr. Wim Verbaal and prof. dr. Mike Kestemont.
 Furthermore, I want to thank the [Ghent University Special Research Fund (BOF)](https://www.ugent.be/en/research/funding/bof), the [Research Foundation Flanders (FWO)](https://www.fwo.be/en/), the [Henri Pirenne Institute for Medieval Studies at Ghent University](https://www.ugent.be/pirenne/en), the [CLiPS Computational Linguistics Group at the University of Antwerp](https://www.clips.uantwerpen.be/computational-linguistics?page=4), and the *Centre Traditio Litterarum Occidentalium* division for computer-assisted research into Latin language and literature housed in the [*Corpus Christianorum Library and Knowledge Centre*](https://www.corpuschristianorum.org/) of Brepols Publishers in Turnhout (Belgium).
+
+# Further Reference
+
+* Kestemont, Mike, Sara Moens, and Jeroen Deploige. ‘Collaborative Authorship in the Twelfth Century: A Stylometric Study of Hildegard of Bingen and Guibert of Gembloux'. *Digital Scholarship in the Humanities* 30, no. 2 (2013): 199–224.
+* De Gussem, Jeroen. 'Bernard of Clairvaux and Nicholas of Montiéramey: Tracing the Secretarial Trail with Computational Stylistics'. *Speculum* 92, no. S1 (2017): S190–S225.
+* De Gussem, Jeroen, and Dinah Wouters. ‘Language and Thought in Hildegard of Bingen's Visionary Trilogy: Close and Distant Readings of a Thinker's Development'. *Parergon*, 2019, 31–60.
+* Kestemont, Mike, and Jeroen De Gussem. 'Integrated Sequence Tagging for Medieval Latin Using Deep Representation Learning'. Edited by Marco Büchler and Laurence Mellerin. *Journal of Data Mining and Digital Humanities*, Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages, 2017, 1–17. [https://arxiv.org/abs/1603.01597](https://arxiv.org/abs/1603.01597).
