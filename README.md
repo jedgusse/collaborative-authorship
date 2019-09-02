@@ -47,18 +47,24 @@ To replicate these experiments, one may request access to the electronic version
 |—|*Elucidatio in Cantica canticorum* |
 |—|*Sermones* |
 |—|*Summa "Quoniam homines"* |
+|------------|-------------| 
 | Anselm of Canterbury (1033–1109) <br> *Anselmus Cantuariensis* | *Cur deus homo* |
 |—|*Monologion* |
 |—|*Proslogion* |
+|------------|-------------| 
 | Anselm of Laon († 1117) <br> *Anselmus Laudunensis* | *Enarrationes in Apocalypsin* |
 |—|*Enarrationes in Cantica canticorum* |
+|------------|-------------| 
 | Bruno of Cologne (1030–1101) <br> *Bruno Carthusianorum* | *Expositio in epistolas Pauli* |
 |—|*Expositio in Psalmos* |
+|------------|-------------| 
 | Gerhoh of Reichersberg (1093–1169) <br> *Gerhohus Reicherspergensis* | *Commentarius aureus in Psalmos et cantica ferialia* |
 |—|*De aedificio dei* |
 |—|*Epistolae Gerhohi* |
+|------------|-------------| 
 | Gilbert of Poitiers (1075–1154) <br> *Gislebertus Porretanus* | *Expositio in Boethii librum De bonorum hedbomade* |
 |—| *Liber de sex principiis* |
+|------------|-------------| 
 | Guibert de Nogent (c. 1053–1125) <br> *Guibertus de Novigento* | *Carmen Erumnarum et dolorum* |
 |—| *Contra iudaizantem et Iudaeos* |
 |—| *De bucella Iudae data* |
