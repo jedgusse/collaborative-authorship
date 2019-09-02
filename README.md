@@ -149,6 +149,8 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Epistolae Gerhohi* |
 | Gilbert of Poitiers (1075–1154) <br> *Gislebertus Porretanus* | *Expositio in Boethii librum De bonorum hedbomade* |
 |━━| *Liber de sex principiis* |
+| Guibert of Gembloux (1124/5–1214) <br> *Guibertus Gemblacensis* | *De combustione monasterii Gemblacensis* |
+|━━| *Epistolarium* |
 | Guibert de Nogent (c. 1053–1125) <br> *Guibertus de Novigento* | *Carmen Erumnarum et dolorum* |
 |━━| *Contra iudaizantem et Iudaeos* |
 |━━| *De bucella Iudae data* |
@@ -162,7 +164,7 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Epistolae duorum amantium* <br> both <*V*>*ir* and <*M*>*ulier*|
 | Hildebert of Lavardin (c. 1055–1133) <br> *Hildebertus Lavardinensis* | *Epistolae de Paschali papa* |
 |━━| *Vita Mariae Aegyptiacae* |
-Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure* |
+| Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure* |
 |━━| *De excellentia sancti Martini* |
 |━━| *De regula Benedicti* |
 |━━| *Epistolae* |
@@ -207,6 +209,8 @@ Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure*
 |━━| *Metalogicon* |
 |━━| *Polycraticus* |
 |━━| *Vita Sancti Anselmi Cantuariensis* |
+| Nicholas of Montiéramey <br> *Nicolaus Claraevallensis* | *Epistolae* |
+|━━| *Sermones* |
 | Odo of Deuil (1110–1162) <br> *Odo de Deogilo* | *De profectione Ludovici VII in Orientem* |
 | Peter Abelard (1079–1142) <br> *Petrus Abaelardus* | *Apologia contra Bernardum* |
 |━━| *Commentaria in epistulam Pauli ad Romanos* |
@@ -259,6 +263,9 @@ Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure*
 |━━| *Fragmentum vitae Ludovici Iunioris* |
 |━━| *Gesta Sugerii (De admin.)* |
 |━━| *Vita Ludovici grossi* |
+| Texts related to Saint-Denis | *Cartulaire blanc* | 
+| Theoderic of Echternach <br> *Theodericus Epternacensis* | *Chronicon Epternacense* |
+|━━| *Libellus de libertate Epternacensi propugnata* |
 | Walter of Châtillon (c. 1135–c. 1179) <br> *Gualterus de Castellione* | *Alexandreis* |
 |━━| *[?] De SS. Trinitate tractatus* |
 |━━| *Tractatus contra Iudaeos* |
