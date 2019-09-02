@@ -25,7 +25,7 @@ However, the *PL*'s accessibility and encyclopedic quality render it a useful to
 
 ## Preprocessing and Formatting
 
-Medieval texts have different ortographical appearances, and editors of texts in the LLT or those in the PL apply different rules and practices in transcribing texts and of handling and displaying the various witnesses. 
+Medieval texts have different orthographical appearances, and editors of texts in the LLT or those in the PL apply different rules and practices in transcribing texts and of handling and displaying the various witnesses. 
 It stands beyond question that such differences constitute a poor ground upon which to automatically compare texts on a large scale, which is why they need to be addressed prior to proceeding to stylistic analysis. 
 In natural language processing (NLP), this task commonly falls under 'preprocessing,' which entails minor interventions in the text such as the deletion of irrelevant textual material and the normalization of divergent orthographical forms.
 
