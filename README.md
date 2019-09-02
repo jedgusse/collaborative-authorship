@@ -179,7 +179,7 @@ Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure*
 |—| *Visio ad guibertum missa* |
 |—| *Vita sancti Disibodi* |
 |—| *Vita sancti Ruperti* |
-|Texts about Hildegard| *Vita Hildegardis* |
+|Texts related to Hildegard| *Vita Hildegardis* |
 |—| *Varii Epistolae ad Hildegardem* |
 | Honorius of Regensburg (c. 1080–c. 1154) <br> *Honorius Augustodunensis* | *De apostatis* |
 |—| *De offendiculo*|
