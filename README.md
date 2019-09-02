@@ -15,7 +15,7 @@ To replicate these experiments, one may request access to the electronic version
 
 Aside from a number of exceptions, the pool of texts used for the experiments carried out in the thesis roughly derive from two main databases. 
 
-## Brepols 
+## Brepols Library of Latin Texts
 
 The first is the Brepols Library of Latin Texts (LLT).
 The LLT first and foremost contains all the editions from Brepols's own *Corpus Christianorum*, in addition to several external critical editions that comply to modern critical standards.
