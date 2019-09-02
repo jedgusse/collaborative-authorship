@@ -40,7 +40,7 @@ To replicate these experiments, one may request access to the electronic version
 
 |	Author 		| 	Texts 	 | 
 |------------|-------------| 
-| Alan of Lille (c. 1128–c. 1203), *Alanus de Insulis* | *Anticlaudianus* |
+| Alan of Lille (c. 1128–c. 1203) <br> *Alanus de Insulis* | *Anticlaudianus* |
 |—|*Contra haereticos* |
 |—|*De arte praedicatoria* |
 |—|*De planctu naturae* |
