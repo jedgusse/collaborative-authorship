@@ -29,9 +29,9 @@ In natural language processing (NLP), the task of aligning variant appearances o
 
 Examples are: 
 
-* <j>’s vs. <i>’s
-* <ae>’s vs. <e>’s, or <oe>'s vs. <e>'s
-* <v>’s vs. <u>’s
+* <j>'s vs. <i>'s
+* <ae>'s vs. <e>'s, or <oe>'s vs. <e>'s
+* <v>'s vs. <u>'s
 * lenition: *racio* vs. *ratio* or *multociens* vs. *multotiens*
 * strengthened aspiration or fortition, e.g. *michi* vs. *mihi* (other examples: *nichil* vs. *nihil*)
 * progressive or regressive assimilation / dissimilation: *exsistere* vs. *existere*, *obf-* vs. *off-* (e.g. *obfuscare*), *abji-* vs. *abi-* (e.g. *abjiciendus est*), *adm-* vs. *amm-* (e.g. *ammonitio*, *ammiratio*), etc.
@@ -40,7 +40,7 @@ Examples are:
 * *quatenus* vs. *quatinus*
 * *imo* vs. *immo*
 * *quoties* vs. *quotiens* (other examples: *totiens* vs. *toties*)
-* *velut* vs. *uelud* *
+* *velut* vs. *uelud*
 
 The original texts found in the data folder in this repository have been slightly camouflaged so as to respect the copyright laws protecting the editions.
 Only function words —which are highly successful for distinguishing writing styles— were retained in their original position and form.
