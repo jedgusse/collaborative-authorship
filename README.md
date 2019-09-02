@@ -36,6 +36,11 @@ All the remaining, content-loaded words, were substituted by 'dummy words', rend
 This means that some experiments in this thesis, those which relied on most-frequent content words in addition to function words, will not be replicable by relying solely on the text data as available on GitHub. 
 To replicate these experiments, one may request access to the electronic versions of the editions referred to by contacting [Brepols Library of Latin Texts](http://clt.brepolis.net/llta/).
 
+## Included authors
+
+| col 1      | col 2      | 
+|------------|-------------| 
+
 # Code
 
 # Acknowledgements
