@@ -160,7 +160,7 @@ To replicate these experiments, one may request access to the electronic version
 | Heloise of Argenteuil († 1164) <br> *Heloisa Argentoliensis* | *Epistolae ad Abaelardum (II, IV and VI)* |
 | Hildebert of Lavardin (c. 1055–1133) <br> *Hildebertus Lavardinensis* | *Epistolae de Paschali papa* |
 |—| *Vita Mariae Aegyptiacae* |
-Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure* |
+Hildegard of Bingen (1098–117) <br> *Hildegardis Bingensis* | *Cause et cure* |
 |—| *De excellentia sancti Martini* |
 |—| *De regula Benedicti* |
 |—| *Epistolae* |
