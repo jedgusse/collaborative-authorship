@@ -49,7 +49,7 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Proslogion* |
 | Anselm of Laon († 1117) <br> *Anselmus Laudunensis* | *Enarrationes in Apocalypsin* |
 |—| *Enarrationes in Cantica canticorum* |
-| Bernard of Clairvaux (1090–1153) <br> Bernardus Claraevallensis | *Apologia ad Guillelmum abbatem* |
+| Bernard of Clairvaux (1090–1153) <br> *Bernardus Claraevallensis* | *Apologia ad Guillelmum abbatem* |
 |—| *De consideratione libri v tractatus* |
 |—| *Ep. de moribus et officio espiscoporum (ep. 42)* |
 |—| *Epistula de baptismo* |
@@ -158,6 +158,8 @@ To replicate these experiments, one may request access to the electronic version
 |—| *In Zachariam* |
 |—| *Quo ordine sermo fieri debeat* |
 | Heloise of Argenteuil († 1164) <br> *Heloisa Argentoliensis* | *Epistolae ad Abaelardum (II, IV and VI)* |
+| Texts related to Heloise and Abelard | Tegernsee collection |
+|—| *Epistolae duorum amantium* <br> both <*V*>*ir* and <*M*>*ulier*|
 | Hildebert of Lavardin (c. 1055–1133) <br> *Hildebertus Lavardinensis* | *Epistolae de Paschali papa* |
 |—| *Vita Mariae Aegyptiacae* |
 Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure* |
@@ -205,6 +207,19 @@ Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure*
 |—| *Metalogicon* |
 |—| *Polycraticus* |
 |—| *Vita Sancti Anselmi Cantuariensis* |
+| Odo of Deuil (1110–1162) <br> *Odo de Deogilo* | *De profectione Ludovici VII in Orientem* |
+| Peter Abelard (1079–1142) <br> *Petrus Abaelardus* | *Apologia contra Bernardum* |
+|—| *Commentaria in epistulam Pauli ad Romanos* |
+|—| *Epistolae I, III, V, VII, VIII* |
+|—| *Epistolae IX–XIV* |
+|—| *Expositio in Hexameron* |
+|—| *Glossae super Hermeneias* |
+|—| *Scito te ipsum* |
+|—| *Sermones* |
+|—| *Sic et non* |
+|—| *Theologia Christiana* |
+|—| *Theologia Scholarium* |
+|—| *Theologia 'Summi boni'* |
 | Peter Damian (c. 1007–c.1073) <br> *Petrus Damianus* | *De divina omnipotentia* |
 |—| *Liber Gomorrhianus* |
 |—| *Vita sancti Romualdi* |
@@ -238,11 +253,21 @@ Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure*
 |—| *Passio Eliphii Tullensis* |
 |—| *Sermo de Pantaleone* |
 |—| *[?] Vita Heriberti Coloniensis* |
+| Suger of Saint-Denis (1080/1–1151) <br> *Sugerius Sancti Dionysii* | *De consecratione * |
+|—| *De rege Ludovico * |
+|—| *Epistolae * |
+|—| *Fragmentum vitae Ludovici Iunioris* |
+|—| *Gesta Sugerii (De admin.)* |
+|—| *Vita Ludovici grossi* |
 | Walter of Châtillon (c. 1135–c. 1179) <br> *Gualterus de Castellione* | *Alexandreis* |
 |—| *[?] De SS. Trinitate tractatus* |
 |—| *Tractatus contra Iudaeos* |
 | William of Conches (c. 1090–1154) <br> *Guillelmus de Conchis* | *Dragmaticon Philosophiae* |
 |—| *Glosae super Boetium* |
+| William of Saint-Denis <br> Guillelmus Sancti Dionysii | *Ad quosdam ex suis comonachis* |
+|—| *De morte Sugerii* |
+|—| *Dyalogum apologiticum* |
+|—| *Vita Sugerii* |
 | William of Saint-Thièrry (c. 1080–1148) <br> *Guillelmus de Sancto Theodorico* | *Aenigma fidei* |
 |—| *Brevis commentatio (in Cantici Canticorum priora dua capita)* |
 |—| *De contemplando Deo* |
