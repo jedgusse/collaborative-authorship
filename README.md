@@ -113,7 +113,8 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Epistulae* |
 | Rupert of Deutz (c. 1075–1130) <br> *Rupertus Tuitiensis* | *Anulus sive dialogus inter Christianum et Iudaeum* |
 |—| *Carmina de calamitatibus ecclesiae Leodiensis Commentaria in Canticum Canticorum* |
-|—| *Commentaria in duodecim prophetas minores Commentaria in evangelium sancti Iohannis Commentarium in Apocalypsim Iohannis apostoli* |
+|—| *Commentaria in duodecim prophetas minores* |
+|—| *Commentaria in evangelium sancti Iohannis Commentarium in Apocalypsim Iohannis apostoli* |
 |—| *De gloria et honore* |
 |—| *De glorificatione Trinitatis et processione Spiritus sancti De incendio Tuitiensi* |
 |—| *De meditatione mortis* |
