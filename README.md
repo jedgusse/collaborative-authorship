@@ -128,6 +128,24 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Passio Eliphii Tullensis* |
 |—| *Sermo de Pantaleone* |
 |—| *[?] Vita Heriberti Coloniensis* |
+| Walter of Châtillon (c. 1135–c. 1179) <br> *Gualterus de Castellione* | *Alexandreis* |
+|—| *[?] De SS. Trinitate tractatus* |
+|—| *Tractatus contra Iudaeos* |
+| William of Conches (c. 1090–1154) <br> *Guillelmus de Conchis* | *Dragmaticon Philosophiae* |
+|—| *Glosae super Boetium* |
+| William of Saint-Thièrry (c. 1080–1148) <br> *Guilhelmus de Sancto Theodorico* | *Aenigma fidei* |
+|—| *Brevis commentatio (in Cantici Canticorum priora dua capita)* |
+|—| *De contemplando Deo* |
+|—| *Epistola de erroribus Guillelmi de Conchis* |
+|—| *De natura corporis et animae* |
+|—| *De natura et dignitate amoris* |
+|—| *De sacramento altaris* |
+|—| *Disputatio adversus Abaelardum* |
+|—| *[?] Disputatio altera adversus Abaelardum* |
+|—| *Expositio altera super Cantica canticorum* |
+|—| *Expositio in Epistolam ad Romanos* |
+|—| *Orationes meditativae* |
+|—| *Speculum fidei* |
 
 # Code
 
