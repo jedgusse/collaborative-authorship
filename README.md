@@ -67,6 +67,13 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Historia quae inscribitur Dei gesta per Francos* |
 |—| *In Zachariam* |
 |—| *Quo ordine sermo fieri debeat* |
+| Hildebert of Lavardin (c. 1055–1133) <br> Hildebertus Lavardinensis | *Epistolae de Paschali papa* |
+|—| *Vita Mariae Aegyptiacae* |
+| Honorius of Regensburg (c. 1080–c. 1154) <br> Honorius Augustodunensis | *De apostatis* |
+|—| *De offendiculo*|
+|—| *Elucidarium*|
+|—| *Expositio in Cantica canticorum*|
+|—| *Gemma animae*|
 
 # Code
 
