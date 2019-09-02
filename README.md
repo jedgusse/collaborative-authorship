@@ -38,8 +38,10 @@ To replicate these experiments, one may request access to the electronic version
 
 ## Included authors
 
-| col 1      | col 2      | 
+|	Author 		| 	Texts 	 | 
 |------------|-------------| 
+| Alan of Lille (c. 1128–c. 1203) Alanus de Insulis | 
+|| *test* |
 
 # Code
 
