@@ -105,6 +105,28 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Epistolae* |
 |—| *Liber de panibus* |
 |—| *Mystica et moralis expositio Mosaici tabernaculi Sermones* |
+| Peter the Venerable (1092–1156) <br> *Petrus Venerabilis* | *Adversus Iudaeorum inveteratam duritiem* |
+|—| *Adversus sectam Saracenorum* |
+|—| *Carmina* |
+|—| *Contra Petrobrusianos haereticos* |
+|—| *De miraculis libri duo* |
+|—| *Epistulae* |
+| Rupert of Deutz (c. 1075–1130) <br> *Rupertus Tuitiensis* | *Anulus sive dialogus inter Christianum et Iudaeum* |
+|—| *Carmina de calamitatibus ecclesiae Leodiensis Commentaria in Canticum Canticorum* |
+|—| *Commentaria in duodecim prophetas minores Commentaria in evangelium sancti Iohannis Commentarium in Apocalypsim Iohannis apostoli* |
+|—| *De gloria et honore* |
+|—| *De glorificatione Trinitatis et processione Spiritus sancti De incendio Tuitiensi* |
+|—| *De meditatione mortis* |
+|—| *De sancta trinitate et operibus eius* |
+|—| *De victoria verbi Dei* |
+|—| *[?] Epistula ad F.* |
+|—| *Hymnus primus de sancto spiritu* |
+|—| *Hymnus secundus sive Oratio ad sanctum spiritum Liber de divinis offciis* |
+|—| *Liber de laesione virginitatis* |
+|—| *[?] Officium de festo Sancti Augustini* |
+|—| *Passio Eliphii Tullensis* |
+|—| *Sermo de Pantaleone* |
+|—| *[?] Vita Heriberti Coloniensis* |
 
 # Code
 
