@@ -40,16 +40,23 @@ To replicate these experiments, one may request access to the electronic version
 
 |	Author 		| 	Texts 	 | 
 |------------|-------------| 
-| Alan of Lille (c. 1128–c. 1203) *Alanus de Insulis* | *Anticlaudianus* |
+| Alan of Lille (c. 1128–c. 1203), *Alanus de Insulis* | *Anticlaudianus* |
 |—|*Contra haereticos*|
 |—|*De arte praedicatoria*|
 |—|*De planctu naturae*|
 |—|*Elucidatio in Cantica canticorum*|
 |—|*Sermones*|
 |—|*Summa "Quoniam homines"*|
-| Anselm of Canterbury (1033–1109) *Anselmus Cantuariensis* | *Cur deus homo*|
+| Anselm of Canterbury (1033–1109), *Anselmus Cantuariensis* | *Cur deus homo*|
 |—|*Monologion*|
 |—|*Proslogion*|
+| Anselm of Laon († 1117), Anselmus Laudunensis | *Enarrationes in Apocalypsin*|
+|—|*Enarrationes in Cantica canticorum*|
+| Bruno of Cologne (1030–1101), Bruno Carthusianorum | *Expositio in epistolas Pauli* |
+|—|*Expositio in Psalmos*|
+| Gerhoh of Reichersberg (1093–1169), Gerhohus Reicherspergensis | *Commentarius aureus in Psalmos et cantica ferialia* |
+|—|*De aedificio dei*|
+|—|*Epistolae Gerhohi*|
 
 
 # Code
