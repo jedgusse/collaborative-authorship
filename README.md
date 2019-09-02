@@ -157,9 +157,28 @@ To replicate these experiments, one may request access to the electronic version
 |—| *Historia quae inscribitur Dei gesta per Francos* |
 |—| *In Zachariam* |
 |—| *Quo ordine sermo fieri debeat* |
-| Heloise of Argenteuil <br> *Heloisa Argentoliensis* | *Epistolae ad Abaelardum (II, IV and VI)* |
+| Heloise of Argenteuil († 1164) <br> *Heloisa Argentoliensis* | *Epistolae ad Abaelardum (II, IV and VI)* |
 | Hildebert of Lavardin (c. 1055–1133) <br> *Hildebertus Lavardinensis* | *Epistolae de Paschali papa* |
 |—| *Vita Mariae Aegyptiacae* |
+Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure* |
+|—| *De excellentia sancti Martini* |
+|—| *De regula Benedicti* |
+|—| *Epistolae* |
+|—| *Epistulae recensionem retractatam* |
+|—| *Explanatio evangeliorum* |
+|—| *Explanatio symboli Athanasii* |
+|—| *Liber diuinorum operum uisiones* |
+|—| *Liber uite meritorum uisiones* |
+|—| *Orationes mediationes uisiones et alia (Epistularium classis VIII) uisiones* |
+|—| *Ordo virtutum drama* |
+|—| *Sciuias uisiones* |
+|—| *Symphonia liturgica* |
+|—| *Triginta octo quaestionum solutiones* |
+|—| *Visio ad guibertum missa* |
+|—| *Vita sancti Disibodi* |
+|—| *Vita sancti Ruperti* |
+|Texts about Hildegard| *Vita Hildegardis* |
+|—| *Varii Epistolae ad Hildegardem* |
 | Honorius of Regensburg (c. 1080–c. 1154) <br> *Honorius Augustodunensis* | *De apostatis* |
 |—| *De offendiculo*|
 |—| *Elucidarium*|
