@@ -49,8 +49,8 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Proslogion* |
 | Anselm of Laon († 1117) <br> *Anselmus Laudunensis* | *Enarrationes in Apocalypsin* |
 |━━| *Enarrationes in Cantica canticorum* |
-| Bernard of Clairvaux (1090–1153) <br> *Bernardus Claraevallensis* | *Apologia ad Guillelmum abbatem* |
-|━━| *De consideratione libri v tractatus* |
+| Bernard of Clairuaux (1090–1153) <br> *Bernardus Claraeuallensis* | *Apologia ad Guillelmum abbatem* |
+|━━| *De consideratione libri u tractatus* |
 |━━| *Ep. de moribus et officio espiscoporum (ep. 42)* |
 |━━| *Epistula de baptismo* |
 |━━| *Epistula de erroribus Petri Abaelardi* |
@@ -85,7 +85,7 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Sermo in dominica quarta post pentecosten* |
 |━━| *Sermo in epiphania Domini* |
 |━━| *Sermo in f. ss. Stephani, Iohannis et Innocentium* |
-|━━| *Sermo in feria iv hebdomadae sanctae* |
+|━━| *Sermo in feria iu hebdomadae sanctae* |
 |━━| *Sermo in festo sancti Martini* |
 |━━| *Sermo in natali sancti Benedicti* |
 |━━| *Sermo in natali sancti Clementis* |
@@ -128,13 +128,13 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Vita sancti Malachiae* |
 | Bruno of Cologne (1030–1101) <br> *Bruno Carthusianorum* | *Expositio in epistolas Pauli* |
 |━━| *Expositio in Psalmos* |
-| Elisabeth of Schönau (1129–1164/5) <br> *Elisabeth Schoenaugiensis* | *Elisabethae de sacro exercitu virginum Coloniensium* |
+| Elisabeth of Schönau (1129–1164/5) <br> *Elisabeth Schoenaugiensis* | *Elisabethae de sacro exercitu uirginum Coloniensium* |
 |━━| *Epistolae* |
 |━━| *Liber primus* | 
 |━━| *Liber secundus* |
 |━━| *Liber tertius* |
-|━━| *Liber viarum dei* |
-|━━| *Liber revelationum* |
+|━━| *Liber uiarum dei* |
+|━━| *Liber reuelationum* |
 | Ekbert of Schönau († 1184) <br> *Ekbertus Schoenaugiensis* | *De obitu* |
 |━━| *Epistolae Ekberti* |
 |━━| *Laudationes* |
@@ -151,30 +151,30 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Liber de sex principiis* |
 | Guibert of Gembloux (1124/5–1214) <br> *Guibertus Gemblacensis* | *De combustione monasterii Gemblacensis* |
 |━━| *Epistolarium* |
-| Guibert de Nogent (c. 1053–1125) <br> *Guibertus de Novigento* | *Carmen Erumnarum et dolorum* |
+| Guibert de Nogent (c. 1053–1125) <br> *Guibertus de Nouigento* | *Carmen Erumnarum et dolorum* |
 |━━| *Contra iudaizantem et Iudaeos* |
 |━━| *De bucella Iudae data* |
 |━━| *De sanctis et eorum pigneribus* |
-|━━| *De vita sua sive Monodiae* |
+|━━| *De uita sua siue Monodiae* |
 |━━| *Historia quae inscribitur Dei gesta per Francos* |
 |━━| *In Zachariam* |
 |━━| *Quo ordine sermo fieri debeat* |
 | Heloise of Argenteuil († 1164) <br> *Heloisa Argentoliensis* | *Epistolae ad Abaelardum (II, IV and VI)* |
 | Texts related to Heloise and Abelard | Tegernsee collection |
 |━━| *Epistolae duorum amantium* <br> both <*V*>*ir* and <*M*>*ulier*|
-| Hildebert of Lavardin (c. 1055–1133) <br> *Hildebertus Lavardinensis* | *Epistolae de Paschali papa* |
+| Hildebert of Lauardin (c. 1055–1133) <br> *Hildebertus Lauardinensis* | *Epistolae de Paschali papa* |
 |━━| *Vita Mariae Aegyptiacae* |
 | Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure* |
 |━━| *De excellentia sancti Martini* |
 |━━| *De regula Benedicti* |
 |━━| *Epistolae* |
 |━━| *Epistulae recensionem retractatam* |
-|━━| *Explanatio evangeliorum* |
+|━━| *Explanatio euangeliorum* |
 |━━| *Explanatio symboli Athanasii* |
 |━━| *Liber diuinorum operum uisiones* |
 |━━| *Liber uite meritorum uisiones* |
 |━━| *Orationes mediationes uisiones et alia (Epistularium classis VIII) uisiones* |
-|━━| *Ordo virtutum drama* |
+|━━| *Ordo uirtutum drama* |
 |━━| *Sciuias uisiones* |
 |━━| *Symphonia liturgica* |
 |━━| *Triginta octo quaestionum solutiones* |
@@ -197,21 +197,21 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *De septem donis spiritus sancti* |
 |━━| *De substantia dilectionis* |
 |━━| *De tribus rerum subsistentiis* |
-|━━| *De vanitate rerum mundanarum* |
-|━━| *De verbo dei* |
+|━━| *De uanitate rerum mundanarum* |
+|━━| *De uerbo dei* |
 |━━| *Dialogus de creatione mundi* |
 |━━| *In hierarchicam coelestem* |
-|━━| *Sententiae de divinitate* |
-| Ivo of Chartres (1040–1115) <br> *Ivo Carnotensis* | *Decretum* |
-|━━| *Epistolae ad litem investiturarum spectantes* |
+|━━| *Sententiae de diuinitate* |
+| Iuo of Chartres (1040–1115) <br> *Iuo Carnotensis* | *Decretum* |
+|━━| *Epistolae ad litem inuestiturarum spectantes* |
 |━━| *Panormia* |
 | John of Salisbury (c. 1125–1180) <br> *Ioannes Saresberiensis* | *Epistolae* |
 |━━| *Metalogicon* |
 |━━| *Polycraticus* |
 |━━| *Vita Sancti Anselmi Cantuariensis* |
-| Nicholas of Montiéramey <br> *Nicolaus Claraevallensis* | *Epistolae* |
+| Nicholas of Montiéramey <br> *Nicolaus Claraeuallensis* | *Epistolae* |
 |━━| *Sermones* |
-| Odo of Deuil (1110–1162) <br> *Odo de Deogilo* | *De profectione Ludovici VII in Orientem* |
+| Odo of Deuil (1110–1162) <br> *Odo de Deogilo* | *De profectione Ludouici VII in Orientem* |
 | Peter Abelard (1079–1142) <br> *Petrus Abaelardus* | *Apologia contra Bernardum* |
 |━━| *Commentaria in epistulam Pauli ad Romanos* |
 |━━| *Epistolae I, III, V, VII, VIII* |
@@ -224,7 +224,7 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Theologia Christiana* |
 |━━| *Theologia Scholarium* |
 |━━| *Theologia 'Summi boni'* |
-| Peter Damian (c. 1007–c.1073) <br> *Petrus Damianus* | *De divina omnipotentia* |
+| Peter Damian (c. 1007–c.1073) <br> *Petrus Damianus* | *De diuina omnipotentia* |
 |━━| *Liber Gomorrhianus* |
 |━━| *Vita sancti Romualdi* |
 | Peter Lombard (c. 1096–1160) <br> *Petrus Lombardus* | *Collectanea in epistolas Pauli* |
@@ -234,35 +234,35 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Epistolae* |
 |━━| *Liber de panibus* |
 |━━| *Mystica et moralis expositio Mosaici tabernaculi Sermones* |
-| Peter the Venerable (1092–1156) <br> *Petrus Venerabilis* | *Adversus Iudaeorum inveteratam duritiem* |
-|━━| *Adversus sectam Saracenorum* |
+| Peter the Venerable (1092–1156) <br> *Petrus Venerabilis* | *Aduersus Iudaeorum inueteratam duritiem* |
+|━━| *Aduersus sectam Saracenorum* |
 |━━| *Carmina* |
 |━━| *Contra Petrobrusianos haereticos* |
 |━━| *De miraculis libri duo* |
 |━━| *Epistulae* |
-| Rupert of Deutz (c. 1075–1130) <br> *Rupertus Tuitiensis* | *Anulus sive dialogus inter Christianum et Iudaeum* |
+| Rupert of Deutz (c. 1075–1130) <br> *Rupertus Tuitiensis* | *Anulus siue dialogus inter Christianum et Iudaeum* |
 |━━| *Carmina de calamitatibus ecclesiae Leodiensis Commentaria in Canticum Canticorum* |
 |━━| *Commentaria in duodecim prophetas minores* |
-|━━| *Commentaria in evangelium sancti Iohannis Commentarium in Apocalypsim Iohannis apostoli* |
+|━━| *Commentaria in euangelium sancti Iohannis Commentarium in Apocalypsim Iohannis apostoli* |
 |━━| *De gloria et honore* |
 |━━| *De glorificatione Trinitatis et processione Spiritus sancti De incendio Tuitiensi* |
 |━━| *De meditatione mortis* |
 |━━| *De sancta trinitate et operibus eius* |
-|━━| *De victoria verbi Dei* |
+|━━| *De uictoria uerbi Dei* |
 |━━| *[?] Epistula ad F.* |
 |━━| *Hymnus primus de sancto spiritu* |
-|━━| *Hymnus secundus sive Oratio ad sanctum spiritum Liber de divinis offciis* |
-|━━| *Liber de laesione virginitatis* |
+|━━| *Hymnus secundus siue Oratio ad sanctum spiritum Liber de diuinis offciis* |
+|━━| *Liber de laesione uirginitatis* |
 |━━| *[?] Officium de festo Sancti Augustini* |
 |━━| *Passio Eliphii Tullensis* |
 |━━| *Sermo de Pantaleone* |
 |━━| *[?] Vita Heriberti Coloniensis* |
 | Suger of Saint-Denis (1080/1–1151) <br> *Sugerius Sancti Dionysii* | *De consecratione * |
-|━━| *De rege Ludovico* |
+|━━| *De rege Ludouico* |
 |━━| *Epistolae* |
-|━━| *Fragmentum vitae Ludovici Iunioris* |
+|━━| *Fragmentum uitae Ludouici Iunioris* |
 |━━| *Gesta Sugerii (De admin.)* |
-|━━| *Vita Ludovici grossi* |
+|━━| *Vita Ludouici grossi* |
 | Texts related to Saint-Denis | *Cartulaire blanc* | 
 | Theoderic of Echternach <br> *Theodericus Epternacensis* | *Chronicon Epternacense* |
 |━━| *Libellus de libertate Epternacensi propugnata* |
@@ -276,17 +276,17 @@ To replicate these experiments, one may request access to the electronic version
 |━━| *Dyalogum apologiticum* |
 |━━| *Vita Sugerii* |
 | William of Saint-Thièrry (c. 1080–1148) <br> *Guillelmus de Sancto Theodorico* | *Aenigma fidei* |
-|━━| *Brevis commentatio (in Cantici Canticorum priora dua capita)* |
+|━━| *Breuis commentatio (in Cantici Canticorum priora dua capita)* |
 |━━| *De contemplando Deo* |
 |━━| *Epistola de erroribus Guillelmi de Conchis* |
 |━━| *De natura corporis et animae* |
 |━━| *De natura et dignitate amoris* |
 |━━| *De sacramento altaris* |
-|━━| *Disputatio adversus Abaelardum* |
-|━━| *[?] Disputatio altera adversus Abaelardum* |
+|━━| *Disputatio aduersus Abaelardum* |
+|━━| *[?] Disputatio altera aduersus Abaelardum* |
 |━━| *Expositio altera super Cantica canticorum* |
 |━━| *Expositio in Epistolam ad Romanos* |
-|━━| *Orationes meditativae* |
+|━━| *Orationes meditatiuae* |
 |━━| *Speculum fidei* |
 
 # Code
