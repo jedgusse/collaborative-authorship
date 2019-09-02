@@ -27,6 +27,21 @@ Medieval texts have different orthographical appearances, and editors of texts i
 It stands beyond question that such differences constitute a poor ground upon which to automatically compare texts on a large scale.
 In natural language processing (NLP), the task of aligning variant appearances of lexical items, such as the pairs *racio* and *ratio*, or *aliquandiu* and *aliquamdiu*, commonly falls under 'preprocessing,' which entails minor interventions in the text such as the deletion of irrelevant textual material and the normalization of divergent orthographical forms.
 
+Examples are: 
+
+* <j>’s vs. <i>’s
+* <ae>’s vs. <e>’s, or <oe>'s vs. <e>'s
+* <v>’s vs. <u>’s
+* lenition: *racio* vs. *ratio* or *multociens* vs. *multotiens*
+* strengthened aspiration or fortition, e.g. *michi* vs. *mihi* (other examples: *nichil* vs. *nihil*)
+* progressive or regressive assimilation / dissimilation: *exsistere* vs. *existere*, *obf-* vs. *off-* (e.g. *obfuscare*), *abji-* vs. *abi-* (e.g. *abjiciendus est*), *adm-* vs. *amm-* (e.g. *ammonitio*, *ammiratio*), etc.
+* *quandiu* vs. *quamdiu* (other examples are: *tanquam* vs. *tamquam*, *nunquam* vs. *numquam*,
+-*cunque* vs. -*cumque*, ...), *tandiu* vs. *tamdiu* (and *quandiu* vs. *quamdiu*)
+* *quatenus* vs. *quatinus*
+* *imo* vs. *immo*
+* *quoties* vs. *quotiens* (other examples: *totiens* vs. *toties*)
+* *velut* vs. *uelud*
+
 The original texts found in the data folder in this repository have been slightly camouflaged so as to respect the copyright laws protecting the editions.
 Only function words —which are highly successful for distinguishing writing styles— were retained in their original position and form.
 All the remaining, content-loaded words, were substituted by 'dummy words', rendering the text illegible. 
