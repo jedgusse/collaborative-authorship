@@ -254,8 +254,8 @@ Hildegard of Bingen (1098–1179) <br> *Hildegardis Bingensis* | *Cause et cure*
 |━━| *Sermo de Pantaleone* |
 |━━| *[?] Vita Heriberti Coloniensis* |
 | Suger of Saint-Denis (1080/1–1151) <br> *Sugerius Sancti Dionysii* | *De consecratione * |
-|━━| *De rege Ludovico * |
-|━━| *Epistolae * |
+|━━| *De rege Ludovico* |
+|━━| *Epistolae* |
 |━━| *Fragmentum vitae Ludovici Iunioris* |
 |━━| *Gesta Sugerii (De admin.)* |
 |━━| *Vita Ludovici grossi* |
