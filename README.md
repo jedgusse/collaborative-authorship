@@ -40,10 +40,13 @@ To replicate these experiments, one may request access to the electronic version
 
 |	Author 		| 	Texts 	 | 
 |------------|-------------| 
-| Alan of Lille (c. 1128–c. 1203) Alanus de Insulis | *test* |
-|—| *test* |
-| Alan of Lille (c. 1128–c. 1203) Alanus de Insulis | *test* |
-| Alan of Lille (c. 1128–c. 1203) Alanus de Insulis | *test* |
+| Alan of Lille (c. 1128–c. 1203) Alanus de Insulis | *Anticlaudianus* |
+|—|*Contra haereticos*|
+|—|*De arte praedicatoria*|
+|—|*De planctu naturae*|
+|—|*Elucidatio in Cantica canticorum*|
+|—|*Sermones*|
+|—|*Summa "Quoniam homines"*
 
 # Code
 
