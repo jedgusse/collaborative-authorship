@@ -20,6 +20,9 @@ Aside from a number of exceptions, the pool of texts used for the experiments ca
 The first is the Brepols Library of Latin Texts (LLT).
 The LLT first and foremost contains all the editions from Brepols's own *Corpus Christianorum*, in addition to several external critical editions that comply to modern critical standards.
 Aside from being able to rely on the texts that had previously been collected in LLT, I have been fortunate to collaborate with Brepols on the further digitization of texts which had thusfar not been available in electronic edition, such as Ewald Könsgen's edition of the *Epistolae duorum amantium* (1974), Suger of Saint-Denis's collected oeuvre as edited by Françoise Gasparri (1996–2001), or the respective works by Elisabeth and Ekbert of Schönau in the edition by Ferdinand W. Roth (1884).
+
+## *Patrologia Latina*
+
 For the remaining texts, I chiefly relied on the digitized version of the *Patrologia Latina* (*PL*), which has become electronically available since 1993, and has remained one of the most sizeable Latin corpora online (±113 million words).
 
 # Code
