@@ -28,6 +28,7 @@ However, the *PL*'s accessibility and encyclopedic quality render it a useful to
 Medieval texts have different orthographical appearances, and editors of texts in the LLT or those in the PL apply different rules and practices in transcribing texts and of handling and displaying the various witnesses. 
 It stands beyond question that such differences constitute a poor ground upon which to automatically compare texts on a large scale, which is why they need to be addressed prior to proceeding to stylistic analysis. 
 In natural language processing (NLP), this task commonly falls under 'preprocessing,' which entails minor interventions in the text such as the deletion of irrelevant textual material and the normalization of divergent orthographical forms.
+In a nutshell, preprocessing Latin texts enables us to automatically align orthographical differences between such variant appearances of lexical items such as the pairs *racio* and *ratio*, or *aliquandiu* and *aliquamdiu*.
 
 The original texts have been slightly camouflaged so as to respect the copyright laws protecting the editions. 
 Only function words, which are highly successful for distinguishing writing styles— were retained in their original position and form.
