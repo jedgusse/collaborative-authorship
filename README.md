@@ -40,7 +40,7 @@ Examples are:
 * *quatenus* vs. *quatinus*
 * *imo* vs. *immo*
 * *quoties* vs. *quotiens* (other examples: *totiens* vs. *toties*)
-* *velut* vs. *uelud* 
+* *velut* vs. *uelud* *
 
 The original texts found in the data folder in this repository have been slightly camouflaged so as to respect the copyright laws protecting the editions.
 Only function words —which are highly successful for distinguishing writing styles— were retained in their original position and form.
