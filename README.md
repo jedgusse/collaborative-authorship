@@ -1,4 +1,4 @@
-[//]: # (git add . && git commit -m "`date`" && git push collaborative-authorship master)
+[//]: # (cmd : git add . && git commit -m "`date`" && git push collaborative-authorship master)
 
 ![front cover of thesis](https://github.com/jedgusse/collaborative-authorship/blob/master/frontpage.png)
 
