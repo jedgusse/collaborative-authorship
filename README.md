@@ -7,6 +7,12 @@
 This GitHub repository contains the text data and accompanying Python code used in the PhD thesis 'Collaborative Authorship in Twelfth-Century Latin Literature. A Stylometric Approach to Gender, Synergy and Authority', to be defended at Ghent University and the University of Antwerp in October 2019.
 The rationale behind this repository is to allow for the replication of experiments conducted throughout this thesis's chapters.
 
+# Code
+
+## Dependencies
+
+The open-source [Anaconda Distribution](https://www.anaconda.com/distribution/) should be downloaded, as should [Python 3](https://www.python.org/downloads/).
+
 # Data
 
 The pool of texts subjected to quantitative analysis in the thesis roughly derive from two main databases. 
@@ -308,8 +314,6 @@ Detailed references given in the thesis.
 |━━| *Expositio in Epistolam ad Romanos* |
 |━━| *Orationes meditatiuae* |
 |━━| *Speculum fidei* |
-
-# Code
 
 # Acknowledgements
 
