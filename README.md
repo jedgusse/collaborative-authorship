@@ -17,6 +17,8 @@ The open-source [Anaconda Distribution](https://www.anaconda.com/distribution/) 
 
 *Under construction...*
 
+The code is already there, but is momentarily being cleaned up and made ready-to-use.
+
 # Data
 
 The pool of texts subjected to quantitative analysis in the thesis roughly derive from two main databases. 
