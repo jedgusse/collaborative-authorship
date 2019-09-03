@@ -4,14 +4,18 @@
 
 # De Gussem, Jeroen. 'Collaborative Authorship in Twelfth-Century Latin Literature. A Stylometric Approach to Gender, Synergy and Authority'. Ghent University and University of Antwerp, 2019.
 
-This GitHub repository contains the text data and accompanying Python code used in the PhD thesis 'Collaborative Authorship in Twelfth-Century Latin Literature. A Stylometric Approach to Gender, Synergy and Authority', to be defended at Ghent University and the University of Antwerp in October 2019.
-The rationale behind this repository is to allow for the replication of experiments conducted throughout this thesis's chapters.
+This GitHub repository contains the text data and accompanying Python code used in the PhD thesis Jeroen De Gussem, 'Collaborative Authorship in Twelfth-Century Latin Literature. A Stylometric Approach to Gender, Synergy and Authority,' to be defended at Ghent University and the University of Antwerp in October 2019.
+The rationale behind this repository is to allow for the replication of experiments conducted throughout this thesis's chapters, by offering open-source code and text data.
 
 # Code
 
 ## Dependencies
 
 The open-source [Anaconda Distribution](https://www.anaconda.com/distribution/) should be downloaded, as should [Python 3](https://www.python.org/downloads/).
+
+## How to run
+
+*Under construction...*
 
 # Data
 
