@@ -54,11 +54,11 @@ Examples are:
 * *quoties* vs. *quotiens* (other examples: *totiens* vs. *toties*)
 * *velut* vs. *uelud*
 
-The original texts found in the data folder in this repository have been slightly camouflaged so as to respect the copyright laws protecting the editions.
+The original texts found in the data folder in this repository have been camouflaged so as to respect the copyright laws protecting the editions.
 Only function words —which are highly successful for distinguishing writing styles— were retained in their original position and form.
-All the remaining, content-loaded words, were substituted by 'dummy words', rendering the text illegible. 
-This means that some experiments in this thesis, those which relied on most-frequent content words in addition to function words, will not be replicable by relying solely on the text data as available on GitHub. 
-To replicate these experiments, one may request access to the electronic versions of the editions referred to by contacting [Brepols Library of Latin Texts](http://clt.brepolis.net/llta/).
+All the remaining, content-loaded tokens were substituted by asterisks, rendering the text illegible. 
+This means that some experiments in the thesis, those which relied on most-frequent content words in addition to function words, will not be replicable by relying solely on the text data as available on GitHub. 
+To replicate these experiments as well, one may request access to the electronic versions of the editions referred to by contacting [Brepols Library of Latin Texts](http://clt.brepolis.net/llta/) or [Chadwyck](http://pld.chadwyck.co.uk/).
 
 ## Included Authors
 
