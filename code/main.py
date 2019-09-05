@@ -1,6 +1,5 @@
 #!/usr/bin/env
 
-from classification import PipeGridClassifier, DimRed
 from cltk.stem.latin.declension import CollatinusDecliner
 from collatex import *
 from collections import Counter
@@ -95,7 +94,8 @@ def load_and_split(path):
 
 	return d
 
-folder_location = ''
+dir_path = os.path.dirname(os.path.realpath(__file__))
+print(dir_path)
 
 """
 Parameters
@@ -110,24 +110,25 @@ rnd_dct = {'n_samples': 800,
 		   'smooth_train': True,
 		   'smooth_test': False}
 
+# Enter tokens which you want to exclude from the analysis
 invalid_words = []
 function_words_only = open('/Users/jedgusse/compstyl/params/fword_list.txt').read().split()
 test_dict = {'derolez': 'test-ms'}
 
-if __name__ == '__main__':
+# if __name__ == '__main__':
 
-	authors, titles, texts = DataReader(folder_location, sample_size,
-										test_dict, rnd_dct
-										).metadata(sampling=True,
-										type='folder',
-										randomization=False)
+	# authors, titles, texts = DataReader(folder_location, sample_size,
+	# 									test_dict, rnd_dct
+	# 									).metadata(sampling=True,
+	# 									type='folder',
+	# 									randomization=False)
 
-	for title, samp in zip(titles, texts):
-		sample_n = int(title.split('_')[-1].split('-')[-1])
-		if sample_n in [6]:
-			print(sample_n)
-			print(samp[:20])
-			print()
+	# for title, samp in zip(titles, texts):
+	# 	sample_n = int(title.split('_')[-1].split('-')[-1])
+	# 	if sample_n in [6]:
+	# 		print(sample_n)
+	# 		print(samp[:20])
+	# 		print()
 
 	# """
 	# Test data
@@ -184,23 +185,19 @@ if __name__ == '__main__':
 	# 								  vocab=None
 	# 								  ).raw()
 
-	vectors, features, scaling_model = Vectorizer(texts, invalid_words,
-												  n_feats=n_feats,
-												  feat_scaling='standard_scaler',
-												  analyzer='word',
-												  vocab=function_words_only
-												  ).tfidf(smoothing=False)
+	# vectors, features, scaling_model = Vectorizer(texts, invalid_words,
+	# 											  n_feats=n_feats,
+	# 											  feat_scaling='standard_scaler',
+	# 											  analyzer='word',
+	# 											  vocab=function_words_only
+	# 											  ).tfidf(smoothing=False)
 
-	PrinCompAnal(authors, titles, vectors, features, sample_size, n_components=3, show_pc2_pc3=False).plot(
-													show_samples=True,
-													show_loadings=True,
-													sbrn_plt=False)
+	# PrinCompAnal(authors, titles, vectors, features, sample_size, n_components=3, show_pc2_pc3=False).plot(
+	# 												show_samples=True,
+	# 												show_loadings=True,
+	# 												sbrn_plt=False)
 	
 	# HeatMap(vectors, features, authors, titles).plot()
-	
-	"""
-	Opgelet: enkel functiewoorden momenteel in Gephi
-	"""
 
 	# GephiNetworks(folder_location, sample_size, invalid_words).plot(feat_range=[150],
 	# 																random_sampling=False,
