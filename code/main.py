@@ -48,6 +48,17 @@ import scipy
 import seaborn.apionly as sns
 import sys
 
+# Fetch local directory names of user
+code_dir = os.path.dirname(os.path.realpath(__file__))
+
+data_dir = code_dir.split('/')[:-1]
+data_dir.append('data')
+data_dir = '/'.join(data_dir)
+
+varia_dir = code_dir.split('/')[:-1]
+varia_dir.append('varia')
+varia_dir = '/'.join(varia_dir)
+
 def load_and_split(path):
 	"""
 	Function that opens document and preprocesses it.
@@ -94,26 +105,36 @@ def load_and_split(path):
 
 	return d
 
-dir_path = os.path.dirname(os.path.realpath(__file__))
-print(dir_path)
-
 """
-Parameters
-----------
+	Parameters
+	----------
+	sample_size: determines the size (number of words) of 
+				 the discrete text segments
+	n_feats: determines vector length (i.e. number of 
+			 features taken into account)
+	step_size: determines size of overlapping 
+			   window if rolling sampling instead of 
+			   discrete sampling
+    rnd_dict: dictionary by which to make random samples
+    		  samples or subsets are randomly sampled (i.e.
+    		  by chance) from a population in n iterative turns
+	invalid_words: enter tokens which you want to exclude from the analysis
+				   e.g. if the content word 'deus' (Lat.) is considered to be 
+				   irrelevant in the analysis, enter the string in the list
+    function_words_only: generates a list of function words form the varia directory
+    test_dict: compulsory list of test set items. 
+    		   insert author and title of test set
 """
 
 sample_size = 1100
 n_feats = 350
 step_size = 100
-
 rnd_dct = {'n_samples': 800,
 		   'smooth_train': True,
 		   'smooth_test': False}
-
-# Enter tokens which you want to exclude from the analysis
 invalid_words = []
-function_words_only = open('/Users/jedgusse/compstyl/params/fword_list.txt').read().split()
-test_dict = {'derolez': 'test-ms'}
+function_words_only = open(varia_dir + 'fword_list').read().split()
+test_dict = {'': ''}
 
 # if __name__ == '__main__':
 
