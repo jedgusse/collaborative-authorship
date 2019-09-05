@@ -1,4 +1,4 @@
-#!/usr/bin/enu
+#!/usr/bin/env
 
 from classification import PipeGridClassifier, DimRed
 from cltk.stem.latin.declension import CollatinusDecliner
@@ -95,12 +95,12 @@ def load_and_split(path):
 
 	return d
 
-folder_location = '/Users/jedgusse/compstyl/impostors-method/abelard-heloise/visualize'
+folder_location = ''
 
-# folder_location = '/Users/jedgusse/compstyl/corpora/tryout'
-
-# PARAMETERS
-### ||| ------ ||| ###
+"""
+Parameters
+----------
+"""
 
 sample_size = 1100
 n_feats = 350
